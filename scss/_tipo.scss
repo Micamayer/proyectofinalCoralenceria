@@ -1,0 +1,100 @@
+@import "flex";
+@import "informacion";
+$tipoA:'Arima Madurai', cursive;
+$tipoB:'Overlock', cursive;
+$pesoA: 400;
+$pesoB: 600;
+$tipoC: 'Old Standard TT', serif;
+
+.bienvenidas{
+	font-family: NY;
+	font-size: 45px;
+}
+.bienvenidas_cora{
+	font-family: $tipoA;
+	font-size: 15px;
+	text-aling: $centro;
+	
+}
+.bienvenidas_magia{
+	font-family: NY;
+	font-size: 35px;
+}
+.bienvenidas_amar{
+	font-family: NY;
+	font-size: 30px;
+	text-aling: $centro;
+	font-weight: negrita;
+	aling-items: $centro;
+
+}
+.amano{
+	font-family: $tipoB;
+	aling-items: $centro;
+	font-size: 25px;
+	text-transform: uppercase;
+
+}
+.amano_artesanal{
+	font-family: $tipoA;
+	font-size: 15px;
+}
+.productos_dest{
+	font-family:NY;
+	font-size: 45px; 
+}
+@font-face{
+	font-family: NY;
+	src: url( ../assets/font/NY.otf);
+}
+@font-face{
+	font-family: Saudagar;
+	src: url(../assets/font/Saudagar.ttf);
+}
+
+
+
+
+
+
+.sobre_cora{
+	font-family: NY;
+	font-size: 45px;
+}
+.sobrecora_txt{
+	font-family: $tipoA;
+	font-size: 15px;
+	text-aling: $centro;
+	
+}
+
+.sabias_cora{
+	font-family: NY;
+	font-size: 25px;
+	text-aling: $centro;
+	
+}
+.sabias_parrafo{
+	font-family:$tipoA;
+
+}
+
+
+
+
+
+.mitalle{
+	font-family: NY;
+	font-size: 45px;
+	text-transform: uppercase;
+}
+.mitalle_titulos{
+	font-family: $tipoB;
+	font-size: 25px;
+	text-aling: $centro;
+}
+.mitalle_txt{
+	font-family: $tipoA;
+	font-size: 20px;
+	text-aling: $centro;
+}

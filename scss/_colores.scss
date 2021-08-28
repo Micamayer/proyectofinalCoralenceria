@@ -1,0 +1,50 @@
+$rojo: #CA4E36;
+$rosado: #F6D9DD;
+$negro1: #150D08;
+$neutro: #FFFFFF;
+$negro: #0F0F0F;
+$rojocora: #CF2D1F;
+$primary: $rosado;
+
+.bienvenidas{
+	color: $negro;
+}
+.bienvenidas_cora{
+	color: $negro1;
+}
+.bienvenidas_amar{
+	color: $negro1;
+}
+.amano{
+	color:$negro1;
+}
+.amano_artesanal{
+	color:$negro1;
+}
+
+
+
+
+
+
+.form{
+	backgroun:$neutro;
+	width: 30%;
+	border-radius:10px;
+	padding: 10px;
+
+}
+.form{
+	width:100%;
+	margin:auto;
+}
+.form.grupo{
+	position:relative;
+	margin:45px;
+}
+.input{
+	background: none;
+	color: #c6c6c6;
+	font-size:18px;
+	padding:10px;
+}

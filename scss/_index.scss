@@ -1,0 +1,53 @@
+@import "boxmodel";
+@import "flex";
+@import "tipo";
+
+
+*{margin:0;padding:0}
+.bg__imagen{
+	background-image: url(../assets/img/fondolenceria.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.bienvenidas{
+	display:flex;
+	flex-direction: $fila;
+	justify-content: $centro;
+}
+.bienvenidas_cora{
+	display:flex;
+	flex-direction: $fila;
+	justify-content: $centro;
+}
+.img_dest{
+	heigth: auto;
+	width:300px;
+	margin-botton:10px;
+	filter: grayscale(40%);
+	transition: filter 1s;
+	transition: transform 1s ease-in-out;
+}
+.img_dest:hover{
+	filter: grayscale(0%);
+	transform: scale(1.2,1.2);
+}
+.btn{
+	border: 3px solid rgba(100,100,100,0.1);
+	margin-botton: 5px;
+	padding:5px;
+	width: 200px;
+	border-radius: 8px;
+	cursor: pointer;
+	color:#150D08;
+	font-family: NY;
+	background-size: 300%;
+	transition: 0.5s;
+}
+.btn:hover{
+	background-position: right;
+}
+.btn1{
+	background-image: linear-gradient(to left, #F6D9DD, #FFFFFF);
+}

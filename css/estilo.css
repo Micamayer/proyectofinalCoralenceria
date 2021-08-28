@@ -1,0 +1,965 @@
+.navbar-collapse {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end; }
+
+.contenedor_cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.amano {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.amano_artesanal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.bienvenidas {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start; }
+
+.bienvenidas_cora {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start; }
+
+.bienvenidas_amar {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start; }
+
+.productos_dest {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.botones {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.conteiner_sobrecora {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: nowrap; }
+
+.mitalle {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.mitalle_titulos {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.mitalle_txt {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.tablatalles {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.conteiner_contacto {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  aling-items: center; }
+
+.contacto {
+  text-aling: center; }
+
+.productos_cora {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.bienvenidas {
+  margin-top: 100px;
+  margin-right: 20px;
+  margin-bottom: 0px;
+  margin-left: 0px; }
+
+.bienvenidas_magia {
+  margin-top: 0px;
+  margin-right: 20px;
+  margin-bottom: 50px;
+  margin-left: 0px; }
+
+.bienvenidas_cora {
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-bottom: 50px;
+  margin-left: 0px; }
+
+.bienvenidas_amar {
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-bottom: 50px;
+  margin-left: 0px; }
+
+.conteiner_cards {
+  margin: 20px; }
+
+.imagenLogo {
+  margin: 20px; }
+
+.imagen_inicio {
+  margin-top: 50px;
+  margin-right: 0px;
+  margin-bottom: 100px;
+  margin-left: 0px; }
+
+.conteiner_amorymagia {
+  margin-top: 50px;
+  margin-right: 0px;
+  margin-bottom: 50px;
+  margin-left: 0px; }
+
+.amano {
+  margin: 5px; }
+
+.amano_artesanal {
+  margin: 5px; }
+
+.botones {
+  margin: 20px;
+  padiding: 20px; }
+
+.productos_dest {
+  padding-top: 0px;
+  padding-right: 20px;
+  padding-bottom: 50px;
+  padding-left: 20px; }
+
+.conteiner_destacados {
+  padding: 50px; }
+
+.conteiner_sobrecora {
+  margin: 50px; }
+
+.img_sobrecora {
+  padding-top: 100px;
+  padding-right: 0px;
+  padding-bottom: 20px;
+  padding-left: 50px; }
+
+.sobre_cora {
+  padding-top: 50px; }
+
+.sobrecora_txt {
+  padding: 20px; }
+
+.conteiner_sobrecora_txt {
+  padding-top: 100px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 0px; }
+
+.conteiner_sabias {
+  padding: 50px;
+  margin: 100px;
+  border: 100px; }
+
+.sabias_cora {
+  padding: 50px; }
+
+.mitalle {
+  margin: 50px; }
+
+.mitalle_titulos {
+  margin: 50px; }
+
+.tablatalles {
+  margin-top: 20px; }
+
+.contacto {
+  margin: 5px; }
+
+.productos_cora {
+  margin: 5px; }
+
+.navbar-collapse {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end; }
+
+.contenedor_cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.amano {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.amano_artesanal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.bienvenidas {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start; }
+
+.bienvenidas_cora {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start; }
+
+.bienvenidas_amar {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start; }
+
+.productos_dest {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.botones {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.conteiner_sobrecora {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: nowrap; }
+
+.mitalle {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.mitalle_titulos {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.mitalle_txt {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.tablatalles {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.conteiner_contacto {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  aling-items: center; }
+
+.contacto {
+  text-aling: center; }
+
+.productos_cora {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.navbar-collapse {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end; }
+
+.contenedor_cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.amano {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.amano_artesanal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.bienvenidas {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start; }
+
+.bienvenidas_cora {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start; }
+
+.bienvenidas_amar {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start; }
+
+.productos_dest {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.botones {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.conteiner_sobrecora {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: nowrap; }
+
+.mitalle {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.mitalle_titulos {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.mitalle_txt {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.tablatalles {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.conteiner_contacto {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  aling-items: center; }
+
+.contacto {
+  text-aling: center; }
+
+.productos_cora {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.amano1 {
+  transform: translate(100px, -300px);
+  position: absolute; }
+
+.bienvenidas {
+  font-family: NY;
+  font-size: 45px; }
+
+.bienvenidas_cora {
+  font-family: "Arima Madurai", cursive;
+  font-size: 15px;
+  text-aling: center; }
+
+.bienvenidas_magia {
+  font-family: NY;
+  font-size: 35px; }
+
+.bienvenidas_amar {
+  font-family: NY;
+  font-size: 30px;
+  text-aling: center;
+  font-weight: negrita;
+  aling-items: center; }
+
+.amano {
+  font-family: "Overlock", cursive;
+  aling-items: center;
+  font-size: 25px;
+  text-transform: uppercase; }
+
+.amano_artesanal {
+  font-family: "Arima Madurai", cursive;
+  font-size: 15px; }
+
+.productos_dest {
+  font-family: NY;
+  font-size: 45px; }
+
+@font-face {
+  font-family: NY;
+  src: url(../assets/font/NY.otf); }
+
+@font-face {
+  font-family: Saudagar;
+  src: url(../assets/font/Saudagar.ttf); }
+
+.sobre_cora {
+  font-family: NY;
+  font-size: 45px; }
+
+.sobrecora_txt {
+  font-family: "Arima Madurai", cursive;
+  font-size: 15px;
+  text-aling: center; }
+
+.sabias_cora {
+  font-family: NY;
+  font-size: 25px;
+  text-aling: center; }
+
+.sabias_parrafo {
+  font-family: "Arima Madurai", cursive; }
+
+.mitalle {
+  font-family: NY;
+  font-size: 45px;
+  text-transform: uppercase; }
+
+.mitalle_titulos {
+  font-family: "Overlock", cursive;
+  font-size: 25px;
+  text-aling: center; }
+
+.mitalle_txt {
+  font-family: "Arima Madurai", cursive;
+  font-size: 20px;
+  text-aling: center; }
+
+* {
+  margin: 0;
+  padding: 0; }
+
+.bg__imagen {
+  background-image: url(../assets/img/fondolenceria.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh; }
+
+.bienvenidas {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.bienvenidas_cora {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.img_dest {
+  heigth: auto;
+  width: 300px;
+  margin-botton: 10px;
+  filter: grayscale(40%);
+  transition: filter 1s;
+  transition: transform 1s ease-in-out; }
+
+.img_dest:hover {
+  filter: grayscale(0%);
+  transform: scale(1.2, 1.2); }
+
+.btn {
+  border: 3px solid rgba(100, 100, 100, 0.1);
+  margin-botton: 5px;
+  padding: 5px;
+  width: 200px;
+  border-radius: 8px;
+  cursor: pointer;
+  color: #150D08;
+  font-family: NY;
+  background-size: 300%;
+  transition: 0.5s; }
+
+.btn:hover {
+  background-position: right; }
+
+.btn1 {
+  background-image: linear-gradient(to left, #F6D9DD, #FFFFFF); }
+
+.navbar-collapse {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end; }
+
+.contenedor_cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.amano {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.amano_artesanal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.bienvenidas {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start; }
+
+.bienvenidas_cora {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start; }
+
+.bienvenidas_amar {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start; }
+
+.productos_dest {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.botones {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.conteiner_sobrecora {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: nowrap; }
+
+.mitalle {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.mitalle_titulos {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.mitalle_txt {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.tablatalles {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.conteiner_contacto {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  aling-items: center; }
+
+.contacto {
+  text-aling: center; }
+
+.productos_cora {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.bienvenidas {
+  margin-top: 100px;
+  margin-right: 20px;
+  margin-bottom: 0px;
+  margin-left: 0px; }
+
+.bienvenidas_magia {
+  margin-top: 0px;
+  margin-right: 20px;
+  margin-bottom: 50px;
+  margin-left: 0px; }
+
+.bienvenidas_cora {
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-bottom: 50px;
+  margin-left: 0px; }
+
+.bienvenidas_amar {
+  margin-top: 20px;
+  margin-right: 20px;
+  margin-bottom: 50px;
+  margin-left: 0px; }
+
+.conteiner_cards {
+  margin: 20px; }
+
+.imagenLogo {
+  margin: 20px; }
+
+.imagen_inicio {
+  margin-top: 50px;
+  margin-right: 0px;
+  margin-bottom: 100px;
+  margin-left: 0px; }
+
+.conteiner_amorymagia {
+  margin-top: 50px;
+  margin-right: 0px;
+  margin-bottom: 50px;
+  margin-left: 0px; }
+
+.amano {
+  margin: 5px; }
+
+.amano_artesanal {
+  margin: 5px; }
+
+.botones {
+  margin: 20px;
+  padiding: 20px; }
+
+.productos_dest {
+  padding-top: 0px;
+  padding-right: 20px;
+  padding-bottom: 50px;
+  padding-left: 20px; }
+
+.conteiner_destacados {
+  padding: 50px; }
+
+.conteiner_sobrecora {
+  margin: 50px; }
+
+.img_sobrecora {
+  padding-top: 100px;
+  padding-right: 0px;
+  padding-bottom: 20px;
+  padding-left: 50px; }
+
+.sobre_cora {
+  padding-top: 50px; }
+
+.sobrecora_txt {
+  padding: 20px; }
+
+.conteiner_sobrecora_txt {
+  padding-top: 100px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 0px; }
+
+.conteiner_sabias {
+  padding: 50px;
+  margin: 100px;
+  border: 100px; }
+
+.sabias_cora {
+  padding: 50px; }
+
+.mitalle {
+  margin: 50px; }
+
+.mitalle_titulos {
+  margin: 50px; }
+
+.tablatalles {
+  margin-top: 20px; }
+
+.contacto {
+  margin: 5px; }
+
+.productos_cora {
+  margin: 5px; }
+
+.navbar-collapse {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end; }
+
+.contenedor_cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.amano {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.amano_artesanal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.bienvenidas {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start; }
+
+.bienvenidas_cora {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start; }
+
+.bienvenidas_amar {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start; }
+
+.productos_dest {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.botones {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.conteiner_sobrecora {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: nowrap; }
+
+.mitalle {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.mitalle_titulos {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.mitalle_txt {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.tablatalles {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.conteiner_contacto {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  aling-items: center; }
+
+.contacto {
+  text-aling: center; }
+
+.productos_cora {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.bienvenidas {
+  color: #0F0F0F; }
+
+.bienvenidas_cora {
+  color: #150D08; }
+
+.bienvenidas_amar {
+  color: #150D08; }
+
+.amano {
+  color: #150D08; }
+
+.amano_artesanal {
+  color: #150D08; }
+
+.form {
+  backgroun: #FFFFFF;
+  width: 30%;
+  border-radius: 10px;
+  padding: 10px; }
+
+.form {
+  width: 100%;
+  margin: auto; }
+
+.form.grupo {
+  position: relative;
+  margin: 45px; }
+
+.input {
+  background: none;
+  color: #c6c6c6;
+  font-size: 18px;
+  padding: 10px; }
+
+.navbar-collapse {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end; }
+
+.contenedor_cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.amano {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.amano_artesanal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.bienvenidas {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start; }
+
+.bienvenidas_cora {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start; }
+
+.bienvenidas_amar {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start; }
+
+.productos_dest {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.botones {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.conteiner_sobrecora {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  flex-wrap: nowrap; }
+
+.mitalle {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.mitalle_titulos {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.mitalle_txt {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.tablatalles {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.conteiner_contacto {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  aling-items: center; }
+
+.contacto {
+  text-aling: center; }
+
+.productos_cora {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; }
+
+.amano1 {
+  transform: translate(100px, -300px);
+  position: absolute; }
+
+.bienvenidas {
+  font-family: NY;
+  font-size: 45px; }
+
+.bienvenidas_cora {
+  font-family: "Arima Madurai", cursive;
+  font-size: 15px;
+  text-aling: center; }
+
+.bienvenidas_magia {
+  font-family: NY;
+  font-size: 35px; }
+
+.bienvenidas_amar {
+  font-family: NY;
+  font-size: 30px;
+  text-aling: center;
+  font-weight: negrita;
+  aling-items: center; }
+
+.amano {
+  font-family: "Overlock", cursive;
+  aling-items: center;
+  font-size: 25px;
+  text-transform: uppercase; }
+
+.amano_artesanal {
+  font-family: "Arima Madurai", cursive;
+  font-size: 15px; }
+
+.productos_dest {
+  font-family: NY;
+  font-size: 45px; }
+
+@font-face {
+  font-family: NY;
+  src: url(../assets/font/NY.otf); }
+
+@font-face {
+  font-family: Saudagar;
+  src: url(../assets/font/Saudagar.ttf); }
+
+.sobre_cora {
+  font-family: NY;
+  font-size: 45px; }
+
+.sobrecora_txt {
+  font-family: "Arima Madurai", cursive;
+  font-size: 15px;
+  text-aling: center; }
+
+.sabias_cora {
+  font-family: NY;
+  font-size: 25px;
+  text-aling: center; }
+
+.sabias_parrafo {
+  font-family: "Arima Madurai", cursive; }
+
+.mitalle {
+  font-family: NY;
+  font-size: 45px;
+  text-transform: uppercase; }
+
+.mitalle_titulos {
+  font-family: "Overlock", cursive;
+  font-size: 25px;
+  text-aling: center; }
+
+.mitalle_txt {
+  font-family: "Arima Madurai", cursive;
+  font-size: 20px;
+  text-aling: center; }
+
+.amano1 {
+  transform: translate(100px, -300px);
+  position: absolute; }

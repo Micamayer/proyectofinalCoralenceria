@@ -1,0 +1,149 @@
+@import "flex";
+
+$paddingT: 20px;
+$paddingB: 50px;
+$marginT: 100px;
+$marginB: 200px;
+$marginR: 0px;
+$marginL: 5px;
+
+.bienvenidas{
+	margin-top: $marginT;
+	margin-right:$paddingT;
+	margin-bottom:$marginR;
+	margin-left:$marginR;
+}
+.bienvenidas_magia{
+	margin-top:$marginR;
+	margin-right:$paddingT;
+	margin-bottom:$paddingB;
+	margin-left:$marginR;
+}
+.bienvenidas_cora{
+	margin-top: $paddingT;
+	margin-right:$paddingT;
+	margin-bottom:$paddingB;
+	margin-left:$marginR;
+
+}
+.bienvenidas_amar{
+	margin-top: $paddingT;
+	margin-right:$paddingT;
+	margin-bottom:$paddingB;
+	margin-left:$marginR;
+
+}
+.conteiner_cards{
+	margin: $paddingT;
+}
+.imagenLogo{
+	margin: $paddingT;
+}
+.imagen_inicio{
+margin-top: $paddingB;
+margin-right: $marginR;
+margin-bottom:$marginT;
+margin-left:$marginR;
+}
+.conteiner_amorymagia{
+	margin-top:$paddingB;
+	margin-right:$marginR;
+	margin-bottom:$paddingB;
+	margin-left:$marginR;
+
+}
+.amano{
+	margin: $marginL;
+}
+.amano_artesanal{
+	margin: $marginL;
+}
+.botones{
+	margin: $paddingT;
+	padiding:$paddingT;
+}
+.productos_dest{
+	padding-top: $marginR;
+	padding-right: $paddingT;
+	padding-bottom: $paddingB;
+	padding-left: $paddingT;
+}
+.conteiner_destacados{
+	padding: $paddingB;
+}
+
+
+
+
+
+
+
+
+
+
+
+.conteiner_sobrecora{
+	margin: $paddingB;
+}
+
+.img_sobrecora{
+	padding-top: $marginT;
+	padding-right: $marginR;
+	padding-bottom:$paddingT;
+	padding-left: $paddingB;
+}
+.sobre_cora{
+	padding-top:$paddingB;
+}
+.sobrecora_txt{
+	padding:$paddingT;
+}
+.conteiner_sobrecora_txt{
+	padding-top: $marginT;
+	padding-right: $paddingT;
+	padding-bottom:$paddingT;
+	padding-left: $marginR;
+
+}
+
+.conteiner_sabias{
+	padding: $paddingB;
+	margin: $marginT;
+	border: $marginT;
+}
+.sabias_cora{
+	padding:$paddingB;
+}
+
+
+
+
+
+
+
+.mitalle{
+	margin:$paddingB;
+}
+.mitalle_titulos{
+	margin:$paddingB;
+}
+.tablatalles{
+	margin-top: $paddingT;
+}
+
+
+
+
+
+
+.contacto{
+	margin:$marginL;
+}
+
+
+
+
+
+.productos_cora{
+	margin: $marginL;
+}

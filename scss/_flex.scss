@@ -1,0 +1,120 @@
+$centro: center;
+$fila: row;
+$derecha: flex-end;
+$izquierda: flex-start;
+
+.navbar-collapse{
+	display:flex;
+	flex-direction: $fila;
+	justify-content: $derecha;
+}
+.contenedor_cards{
+	display: flex;
+	flex-direction: $fila;
+	justify-content: $centro;
+}
+.amano{
+	display: flex;
+	flex-direction: $fila;
+	justify-content: $centro;
+
+}
+.amano_artesanal{
+	display: flex;
+	flex-direction: $fila;
+	justify-content: $centro;
+}
+.bienvenidas{
+	display: flex;
+	flex-direction: $fila;
+	justify-content: $izquierda;
+
+}
+.bienvenidas_cora{
+	display: flex;
+	flex-direction: $fila;
+	justify-content: $izquierda;
+
+}
+.bienvenidas_amar{
+	display: flex;
+	flex-direction: $fila;
+	justify-content: $izquierda;
+
+}
+.productos_dest{
+	display:flex;
+	flex-direction: $fila;
+	justify-content: $centro;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.botones{
+	display:flex;
+	flex-direction:$fila;
+	justify-content:$centro;
+
+}
+.conteiner_sobrecora{
+	display: flex;
+	flex-direction: $fila;
+	justify-content: space-between;
+	flex-wrap: nowrap;
+}
+
+
+
+
+
+.mitalle{
+	display:flex;
+	flex-direction: $fila;
+	justify-content: $centro;
+}
+.mitalle_titulos{
+	display:flex;
+	flex-direction: $fila;
+	justify-content: $centro;
+}
+.mitalle_txt{
+	display:flex;
+	flex-direction: $fila;
+	justify-content: $centro;
+}
+.tablatalles{
+	display: flex;
+	flex-direction: $fila;
+	justify-content: $centro;
+}
+.conteiner_contacto{
+	display:flex;
+	flex-direction:$fila;
+	justify-content:$centro;
+	aling-items:$centro;
+}
+.contacto{
+	text-aling:$centro;
+
+}
+
+
+
+
+
+.productos_cora{
+	display: flex;
+	flex-direction:$fila;
+	justify-content:$centro;
+
+}
