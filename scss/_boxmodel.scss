@@ -7,6 +7,9 @@ $marginB: 200px;
 $marginR: 0px;
 $marginL: 5px;
 
+
+
+/*----index----*/
 .bienvenidas{
 	margin-top: $marginT;
 	margin-right:$paddingT;
@@ -78,7 +81,7 @@ margin-left:$marginR;
 
 
 
-
+/*----informacion----*/
 
 
 
@@ -108,7 +111,6 @@ margin-left:$marginR;
 
 .conteiner_sabias{
 	padding: $paddingB;
-	margin: $marginT;
 	border: $marginT;
 }
 .sabias_cora{
@@ -118,7 +120,7 @@ margin-left:$marginR;
 
 
 
-
+/*----talles----*/
 
 
 .mitalle{
@@ -130,20 +132,84 @@ margin-left:$marginR;
 .tablatalles{
 	margin-top: $paddingT;
 }
+.imagen_talles{
+	margin:$paddingT;
+}
+
+/*----contacto----*/
+
+.conteiner_contacto{
+	margin:$marginB;
+}
+.formulario_cora{
+	width:450px;
+	margin:auto;
+	background:rgba (0,0,0,0.4);
+	padding:10px 20px;
+	box-sizing: border-box;
+	margin-top: 20px;
+	border-radius: 7px;
+
+}
+.cont_cora{
+	text-aling: center;
+	margin: 0;
+	font-size:30px;
+	margin-bottom: 20px;
+}
+.nombre_cora{
+	width:100%;
+	margin-bottom: 20px;
+	padding:7px;
+	box-sizing: border-box;
+	font-size:17px;
+	border:none;
+}
+.textarea_cora{
+	min-height:100px;
+	max-height:200px;
+	max-width: 100%;
+
+}
+#boton{
+	background: #31384A;
+	color: #fff;
+	padding:20px;
+}
+#boton:hover {
+	cursor: pointer;
+}
 
 
+@media (max-width:480px){
+	.formulario_cora{
+	width:100%
+	}
 
-
-
-
-.contacto{
-	margin:$marginL;
+.amano1{
+	width:200px;
+	height: 300px;
+}
+.amano2{
+	width:200px;
+	height: 300px;
+}
 }
 
 
 
 
 
+
+
+
+/*----productos----*/
+
+
+
 .productos_cora{
 	margin: $marginL;
+}
+.productos_titulo{
+	margin:$paddingB;
 }

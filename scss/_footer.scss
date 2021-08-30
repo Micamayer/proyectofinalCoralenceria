@@ -1,0 +1,8 @@
+.img_footer{
+	heigth: auto;
+	width:40px;
+	transition: transform 1s ease-in-out;
+}
+.img_footer:hover{
+	transform: scale(1.2,1.2);
+	}

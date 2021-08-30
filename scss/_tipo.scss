@@ -55,7 +55,7 @@ $tipoC: 'Old Standard TT', serif;
 
 
 
-
+/*----informacion-----*/
 
 .sobre_cora{
 	font-family: NY;
@@ -81,7 +81,7 @@ $tipoC: 'Old Standard TT', serif;
 
 
 
-
+/*----talles-----*/
 
 .mitalle{
 	font-family: NY;
@@ -96,5 +96,20 @@ $tipoC: 'Old Standard TT', serif;
 .mitalle_txt{
 	font-family: $tipoA;
 	font-size: 20px;
+	text-aling: $centro;
+}
+
+
+/*-----productos-----*/
+
+.productos_titulo{
+	font-family: NY;
+	font-size: 45px;
+}
+
+/*-----contacto----*/
+.cont_cora{
+	font-family: $tipoA;
+	font-size: 45px;
 	text-aling: $centro;
 }

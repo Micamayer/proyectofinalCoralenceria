@@ -57,7 +57,7 @@ $izquierda: flex-start;
 
 
 
-
+/*---informacion-----*/
 
 
 .botones{
@@ -73,6 +73,11 @@ $izquierda: flex-start;
 	flex-wrap: nowrap;
 }
 
+.sabias_parrafo{
+	display:flex;
+	flex-direction:column;
+	text-aling:$centro;
+}
 
 
 
@@ -109,12 +114,45 @@ $izquierda: flex-start;
 }
 
 
-
+/*-----productos------*/
 
 
 .productos_cora{
 	display: flex;
 	flex-direction:$fila;
-	justify-content:$centro;
+	justify-content:space-between;
+
 
 }
+.productos_titulo{
+	display:flex;
+	flex-direction:$fila;
+	justify-content:$centro;
+}
+
+
+/*-----footer-----*/
+
+.redes_cora{
+	display: flex;
+	flex-direction:$fila;
+	aling-items:$centro;
+}
+
+.seguinos_redes{
+	display: flex;
+	flex-direction:$fila;
+	justify-content:$centro;
+}
+.seguinos_iconos{
+	display:flex;
+	flex-direction:$fila;
+	justify-content:$centro;
+}
+.footer_telefono{
+	display:flex;
+	flex-direction:$fila;
+	justify-content:$centro;
+}
+
+
